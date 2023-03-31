@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [Booster](https://booster.page) and [Boom Wallet](https://boom.money)
+- 🔭 I’m currently working on [Deep Lake](https://deeplake.finance) and [Boom Wallet](https://boom.money)
 - 🌱 I’m currently learning Taproot & Lightning
 - 💬 Ask me about Stacks blockchain
 
