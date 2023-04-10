@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Deep Lake](https://deeplake.finance) and [Boom Wallet](https://boom.money)
 - 🌱 I’m currently learning Taproot & Lightning
-- 💬 Ask me about Stacks blockchain
+- 💬 Ask me about Stacks blockchain & Clarity smart contracts
 
 <!--
 - 👯 I’m looking to collaborate on ...
