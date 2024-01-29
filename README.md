@@ -1,7 +1,3 @@
-### Hi there 👋 
-
-Morning. 
-
 - 🔭 I’m currently working on building the best #Bitcoin developer experience at [Deep Lake](https://deeplake.finance)  
 - 🌱 I’m currently learning Taproot & AI 
 - 💬 Ask me about Bitcoin L2 - Stacks blockchain & Clarity smart contracts
