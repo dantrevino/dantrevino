@@ -1,7 +1,5 @@
-- 🔭 I’m currently working on building the best #Bitcoin developer experience at [Deep Lake](https://deeplake.finance)  
-- 🌱 I’m currently learning Taproot & AI 
-- 💬 Ask me about Bitcoin L2 - Stacks blockchain & Clarity smart contracts
-- 💥 Author of [Boom Wallet](https://boom.money)
+- Life, Liberty, and the Pursuit of Open Standards.
+- 💥 Building @ [Boom Wallet](https://boom.money)
 
 <!--
 - 👯 I’m looking to collaborate on ...
